@@ -3,13 +3,13 @@
 
 This application is based on the New Body Mass Index (BMI) formula updated by researchers at Oxford University in 2013.
 
-The revised formula (**$ 1.3 x weight/height^2.5**) is a better approximation of the human body reality, because it scales more accurately as a person grows in height.
+The revised formula (**1.3 x weight/height^2.5**) is a better approximation of the human body reality, because it scales more accurately as a person grows in height.
 
 Users are required to input their height(*m*) and body weight(*kg*) to acquire the classification of their BMI scores.
 
 ## Presentation Report and Relevant documents
 
-To view the presentation report, please click [here](https://karennkl.github.io/Coursera-PML-Course-Project/).
+To view the presentation report, please click [here](http://rpubs.com/nkl/newbmi).
 
 The following additional documents attached are; 
 
