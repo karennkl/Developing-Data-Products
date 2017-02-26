@@ -11,6 +11,8 @@ Users are required to input their height(*m*) and body weight(*kg*) to acquire t
 
 To view the presentation report, please click [here](http://rpubs.com/nkl/newbmi).
 
+To view the online application, please click [here](https://karennkl.shinyapps.io/Project/).
+
 The following additional documents attached are; 
 
 1. **ui.R**: Shiny script for BMI Calculator user interface.
